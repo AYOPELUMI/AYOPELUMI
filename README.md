@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayopelumi&show_icons=true&locale=en" alt="ayopelumi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayopelumi&" alt="ayopelumi" /></p>
+
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
