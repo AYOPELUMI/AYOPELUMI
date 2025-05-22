@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayodeji Pelumi</h1>
-<h3 align="center">A software developer from Nigeria</h3>
+<h3 align="center">A web & mobile developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayopelumi" alt="ayopelumi" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Dart**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👯 I’m looking to collaborate on **any available project**
 
-- 👨‍💻 All of my projects are available at [ayopelumi.netlify.app](https://ayopelumi.netlify.app)
+- 👨‍💻 Some of my projects are available at [ayopelumi.netlify.app](https://ayopelumi.netlify.app)
 
-- 💬 Ask me about **Web development(React, Nextjs, Typescript Tailwind Css, SASS, Bootstrap), software development**
+- 💬 Ask me about **Web development(React, Nextjs, Typescript Tailwind Css, SASS, Bootstrap), Mobile development**
 
 - 📫 How to reach me **ayopelumi2014@gmail.com**
 
