@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any available project**
 
-- 👨‍💻 Some of my projects are available at [ayopelumi.netlify.app](https://ayopelumi.netlify.app)
+- 👨‍💻 Some of my projects are available at [ayopelumi.netlify.app](https://ayopelumi.vercel.app)
 
 - 💬 Ask me about **Web development(React, Nextjs, Typescript Tailwind Css, SASS, Bootstrap), Mobile development**
 
