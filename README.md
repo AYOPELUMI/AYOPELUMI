@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayopelumi2014@gmail.com**
 
-- 📄 Know about my experiences [ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume](ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume)
+- 📄 Know about my experiences [ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume](https://ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
