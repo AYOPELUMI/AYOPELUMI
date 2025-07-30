@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayodeji Pelumi</h1>
-<h3 align="center">A web & mobile developer from Nigeria</h3>
+<p>A Front-End Web & Mobile Developer with a strong passion for building scalable, user-focused digital products. I specialize in both Flutter and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces
+
+I thrive in fast-paced environments where creativity meets code. Whether building robust Flutter apps or architecting high-performing web platforms with React, Next.js, and GraphQL, I bring a deep understanding of UI/UX principles, clean architecture, and modern development practices.
+
+🧠 I love solving real-world problems, simplifying complex interfaces, and optimizing user efficiency — and I’ve done so in roles at Voltis Labs, Zilycloud Technologies, and Acme Software Lab.
+
+🌐 Tech Stack
+Web: HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, SASS, Git, Supabase, Firebase, GraphQL, Postman, Google Maps APIs
+Flutter: Dart, Riverpod, GetX, Bloc, Dio, Hive, Firebase, GraphQL, Google Places
+Backend: Node.js, Express.js</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
 
