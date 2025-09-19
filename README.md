@@ -3,11 +3,11 @@
 
 I thrive in fast-paced environments where creativity meets code. Whether building robust Flutter apps or architecting high-performing web platforms with React, Next.js, and GraphQL, I bring a deep understanding of UI/UX principles, clean architecture, and modern development practices.<br />
 
-🧠 I love solving real-world problems, simplifying complex interfaces, and optimizing user efficiency — and I’ve done so in roles at Voltis Labs, Zilycloud Technologies, and Acme Software Lab.<br />
+🧠 I love solving real-world problems, simplifying complex interfaces, and optimizing user efficiency — and I’ve done so in roles at Voltis Labs, Zilycloud Technologies, and Acme Software Lab, Lift AI.<br />
 
 🌐 Tech Stack
 Web: HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, SASS, Git, Supabase, Firebase, GraphQL, Postman, Google Maps APIs<br />
-Flutter: Dart, Riverpod, GetX, Bloc, Dio, Hive, Firebase, GraphQL, Google Places<br />
+Flutter: Dart, Riverpod, GetX, Bloc, Dio, Hive, Firebase, GraphQL,REST,  Google Places<br />
 Backend: Node.js, Express.js</p><br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
