@@ -10,6 +10,14 @@ Web: HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, SASS, Git, 
 Flutter: Dart, Riverpod, GetX, Bloc, Dio, Hive, Firebase, GraphQL,REST,  Google Places<br />
 Backend: Node.js, Express.js</p><br />
 
+My Projects 
+Snippet Manager: https://snippet-manager-rho.vercel.app
+Afrogarm Web: https://afrogarm.com
+Moneta: https://moneta-psi.vercel.app/
+Flexx: https://flexx-kappa.vercel.app/
+Voltis labs: https://voltislab.com["https://voltislab.com"]
+Padup : https://demo.padup.com["https://demo.padup.com"]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayopelumi" alt="ayopelumi" /></a> </p>
