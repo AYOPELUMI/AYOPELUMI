@@ -10,11 +10,11 @@ Web: HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, SASS, Git, 
 Flutter: Dart, Riverpod, GetX, Bloc, Dio, Hive, Firebase, GraphQL,REST,  Google Places<br />
 Backend: Node.js, Express.js</p><br />
 
-<strong>My Projects</strong> 
+<strong>My Projects</strong> <br />
 Snippet Manager: https://snippet-manager-rho.vercel.app<br />
 Afrogarm Web: https://afrogarm.com<br />
 Moneta: https://moneta-psi.vercel.app/<br />
-Flexx: https://flexx-kappa.vercel.app/>br />
+Flexx: https://flexx-kappa.vercel.app/<br />
 Voltis labs: https://voltislab.com<br />
 Padup : https://demo.padup.com<br />
 
