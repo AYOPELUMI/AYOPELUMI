@@ -31,12 +31,12 @@ I am currently immersed in the world of [**Node.js**](https://nodejs.org/en/abou
 ## 📌 **Projects**
 
 Here are some of my notable projects:
-[**Snippet Manager**](https://snippet-manager-rho.vercel.app) - Snippet Manager is a cloud storage for keeping your resuable code snippets accessible and protected and sharable with the workflow and logic to be gothub-like 
-[**Villeto**](https://villeto.com) -  An upcoming fintech to streamline all patyments and accessiblity in an organization
-[**Moneta**](https://moneta-psi.vercel.app) - An expsensw dashboard template
-[**Flexx**](https://flexx-kappa.vercel.app) - An expsense dasboard template
-[**Voltis labs**](https://voltislab.com) - A website showcasing flexibility of an organiztion ranging from techs to games, blogs and academy
-[**Padup**](https://demo.padup.com) - A Peer-Peer cpmmunication website for connecting and communicating 
+- [**Snippet Manager**](https://snippet-manager-rho.vercel.app) - Snippet Manager is a cloud storage for keeping your resuable code snippets accessible and protected and sharable with the workflow and logic to be gothub-like .
+- [**Villeto**](https://villeto.com) -  An upcoming fintech to streamline all patyments and accessiblity in an organization.
+- [**Moneta**](https://moneta-psi.vercel.app) - An expsensw dashboard template.
+- [**Flexx**](https://flexx-kappa.vercel.app) - An expsense dasboard template.
+- [**Voltis labs**](https://voltislab.com) - A website showcasing flexibility of an organiztion ranging from techs to games, blogs and academy.
+- [**Padup**](https://demo.padup.com) - A Peer-Peer cpmmunication website for connecting and communicating.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
@@ -48,7 +48,7 @@ Here are some of my notable projects:
 
 You can reach me through my email to connect and talk about how we can work together! 👇
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezekiel.web.dev@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayopelumi2014@gmail.com)
 
 ---
 
