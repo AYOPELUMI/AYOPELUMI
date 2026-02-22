@@ -1,9 +1,9 @@
 ### Hello, World! 🌎
 
 # I'm *Ogundeji Ayodeji** 👋
-<p>A Front-End (Web & Mobile) Developer with a strong passion for building scalable, user-focused digital products. I specialize in both Flutter and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces<br />
+A Front-End (Web & Mobile) Developer with a strong passion for building scalable, user-focused digital products. I specialize in both Flutter and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces<br 
  ---
-I thrive in fast-paced environments where creativity meets code. Whether building robust Flutter apps or architecting high-performing web platforms with React, Next.js, and GraphQL, I bring a deep understanding of UI/UX principles, clean architecture, and modern development practices.<br />
+I thrive in fast-paced environments where creativity meets code. Whether building robust Flutter apps or architecting high-performing web platforms with React, Next.js, and GraphQL, I bring a deep understanding of UI/UX principles, clean architecture, and modern development practices.
 
 🧠 I love solving real-world problems, simplifying complex interfaces, and optimizing user efficiency — and I’ve done so in roles at Voltis Labs, Zilycloud Technologies, and Acme Software Lab, Lift AI.<br />
 ---
