@@ -1,55 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ayodeji Pelumi</h1>
-<p>A Front-End Web & Mobile Developer with a strong passion for building scalable, user-focused digital products. I specialize in both Flutter and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces<br />
+### Hello, World! 🌎
 
+# I'm *Ogundeji Ayodeji** 👋
+<p>A Front-End (Web & Mobile) Developer with a strong passion for building scalable, user-focused digital products. I specialize in both Flutter and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces<br />
+ ---
 I thrive in fast-paced environments where creativity meets code. Whether building robust Flutter apps or architecting high-performing web platforms with React, Next.js, and GraphQL, I bring a deep understanding of UI/UX principles, clean architecture, and modern development practices.<br />
 
 🧠 I love solving real-world problems, simplifying complex interfaces, and optimizing user efficiency — and I’ve done so in roles at Voltis Labs, Zilycloud Technologies, and Acme Software Lab, Lift AI.<br />
+---
+
+## **Resume**
+- 📄 Know about my experiences [Ogundeji_Ayodeji_Resume](https://ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume.pdf)
+---
+
+## 💼 **Skills**
 
 🌐 Tech Stack
-Web: HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, SASS, Git, Supabase, Firebase, GraphQL, Postman, Google Maps APIs<br />
-Flutter: Dart, Riverpod, GetX, Bloc, Dio, Hive, Firebase, GraphQL,REST,  Google Places<br />
-Backend: Node.js, Express.js</p><br />
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Flutter/Dart
+- **Frameworks/Libraries:** React, Zustand, Redux, Tailwind CSS, Bootstrap, SASS, Material UI, Ant Design, Shadcn, Riverpod, GetX, Bloc, Dio, Hive, Firebase
+- **Package Managers:** Npm, Yarn
+- **Version Control:** Git, BitBucket
+- **API INTEGRATION:** REST, GraphQL
+- **Collaboration Platforms:** Notion, Slack, Trello, Jira
 
-<strong>My Projects</strong> <br />
-Snippet Manager: https://snippet-manager-rho.vercel.app<br />
-Afrogarm Web: https://afrogarm.com<br />
-Moneta: https://moneta-psi.vercel.app/<br />
-Flexx: https://flexx-kappa.vercel.app/<br />
-Voltis labs: https://voltislab.com<br />
-Padup : https://demo.padup.com<br />
+## 🌱 **Currently Learning**
+
+I am currently immersed in the world of [**Node.js**](https://nodejs.org/en/about/), exploring its endless possibilities and discovering new ways to create dynamic and powerful web applications.
+
+---
+
+## 📌 **Projects**
+
+Here are some of my notable projects:
+[**Snippet Manager**](https://snippet-manager-rho.vercel.app) - Snippet Manager is a cloud storage for keeping your resuable code snippets accessible and protected and sharable with the workflow and logic to be gothub-like 
+[**Villeto**](https://villeto.com) -  An upcoming fintech to streamline all patyments and accessiblity in an organization
+[**Moneta**](https://moneta-psi.vercel.app) - An expsensw dashboard template
+[**Flexx**](https://flexx-kappa.vercel.app) - An expsense dasboard template
+[**Voltis labs**](https://voltislab.com) - A website showcasing flexibility of an organiztion ranging from techs to games, blogs and academy
+[**Padup**](https://demo.padup.com) - A Peer-Peer cpmmunication website for connecting and communicating 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayopelumi" alt="ayopelumi" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **any available project**
+## 📫 **Contact Me**
 
-- 👨‍💻 Some of my projects are available at [ayopelumi.vercel.app](https://ayopelumi.vercel.app)
+You can reach me through my email to connect and talk about how we can work together! 👇
 
-- 💬 Ask me about **Web development(React, Nextjs, Typescript Tailwind Css, SASS, Bootstrap), Mobile development**
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezekiel.web.dev@gmail.com)
 
-- 📫 How to reach me **ayopelumi2014@gmail.com**
+---
 
-- 📄 Know about my experiences [ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume](https://ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayopelumi2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayopelumi2014" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayopelumi2014)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayopelumi&show_icons=true&locale=en&layout=compact" alt="ayopelumi" /></p>
+## 📈 **GitHub Analytics**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayopelumi&show_icons=true&locale=en" alt="ayopelumi" /></p>
+### 📊 **Statistics**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayopelumi&" alt="ayopelumi" /></p>
+![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ayopelumi&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
+
+### 👨‍💻 **Programming Languages**
+
+![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayopelumi&layout=compact&langs_count=10&&theme=algolia)
+
+### 🏆 **Trophies**
+
+![My Github Trophies](https://github-profile-trophy.vercel.app/?username=ayopelumi&column=3&row=2&theme=algolia)
+
+![Github Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayopelumi)
+
+---
+
+## 🌐 **Connect With Me**
+
+Connect with me on my social media platforms by following and engaging with my content. ❤️
+ 
+[![](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayopelumi2014/)
+>
+
 
 
 
