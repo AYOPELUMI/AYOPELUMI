@@ -24,6 +24,8 @@ A Front-End (Web & Mobile) Developer with a strong passion for building scalable
 - **API INTEGRATION:** REST, GraphQL
 - **Collaboration Platforms:** Notion, Slack, Trello, Jira
 
+---
+
 ## 🌱 **Currently Learning**
 
 I am currently immersed in the world of [**Node.js**](https://nodejs.org/en/about/), exploring its endless possibilities and discovering new ways to create dynamic and powerful web applications.
@@ -40,6 +42,7 @@ Here are some of my notable projects:
 - [**Voltis labs**](https://voltislab.com) - A website showcasing flexibility of an organiztion ranging from techs to games, blogs and academy.
 - [**Padup**](https://demo.padup.com) - A Peer-Peer cpmmunication website for connecting and communicating.
 
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayopelumi&label=Profile%20views&color=0e75b6&style=flat" alt="ayopelumi" /> </p>
 
@@ -54,9 +57,12 @@ You can reach me through my email to connect and talk about how we can work toge
 
 ---
 
-
+## 📈 **WakaTime Analytics**
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayopelumi2014)
+
+
+--- 
 
 ## 📈 **GitHub Analytics**
 
