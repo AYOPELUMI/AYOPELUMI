@@ -11,7 +11,7 @@ A Front-End (Web & Mobile) Developer with a strong passion for building scalable
 ---
 
 ## **Resume**
-- 📄 Know about my experiences [Ogundeji_Ayodeji_Resume](https://ayopelumi.netlify.app/Resume/Ogundeji_Ayodeji_Resume.pdf)
+- 📄 Know about my experiences [Ogundeji_Ayodeji_Resume](https://docs.google.com/document/d/1xoOc9cXTrJepp8rOWyfSgJXOPzLACHbXMkJADTwY4rY/edit?usp=sharing)
 ---
 
 ## 💼 **Skills**
@@ -39,8 +39,8 @@ Here are some of my notable projects:
 - [**Villeto**](https://villeto.com) -  An upcoming fintech to streamline all patyments and accessiblity in an organization.
 - [**Moneta**](https://moneta-psi.vercel.app) - An expsensw dashboard template.
 - [**Flexx**](https://flexx-kappa.vercel.app) - An expsense dasboard template.
-- [**Voltis labs**](https://voltislab.com) - A website showcasing flexibility of an organiztion ranging from techs to games, blogs and academy.
-- [**Padup**](https://demo.padup.com) - A Peer-Peer cpmmunication website for connecting and communicating.
+- [**Spinnersonic**](https://spinnersonic.com) - A website showcasing flexibility of anonline game.
+- [**Villeto**](https://villeto.com) - A financial solutions.
 
 ---
 
