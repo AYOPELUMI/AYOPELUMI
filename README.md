@@ -1,7 +1,7 @@
 ### Hello, World! 🌎
 
 # I'm *Ogundeji Ayodeji* 👋
-A Front-End (Web & Mobile) Developer with a strong passion for building scalable, user-focused digital products. I specialize in both cross platform mobile and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces<br 
+A Front-End (Web & Mobile) Developer with a strong passion for building scalable, user-focused digital products. I specialize in both cross platform mobile and JavaScript ecosystems, with a track record of delivering pixel-perfect, performant interfaces<br />
  
  ---
  I thrive in fast-paced environments where creativity meets code. Whether building robust cross platofrm mobile apps or architecting high-performing web platforms with React, Next.js, and GraphQL, I bring a deep understanding of UI/UX principles, clean architecture, and modern development practices.
